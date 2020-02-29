@@ -1,15 +1,10 @@
-# Template: Simple GraphQL Server
+# Template: Simple GraphQL Server + KeyWord & Category
 
 This template contains a folder with a very basic implementation of a GraphQL server (with Apollo).
 
-## Adding a frontend
+## frontend Added
 
-One very easy way to add a React JS frontend application is to use create-react-app:
-```
-npx create-react-app frontend
-```
-
-The resulting structure will then look something like this:
+structure look something like this:
 ```
 |
 |- api
@@ -22,8 +17,8 @@ The resulting structure will then look something like this:
 To run the application locally, you have to start both server and frontend application:
 1. Navigate to the `api` folder in the terminal and start the server: `npm run start`
 2. (Open `localhost:4000` in the browser to test the GraphQL API)
-2. In a different terminal navigate to the `frontend` folder (or however you called it) and run it as well.
-3. Open `localhost:3000 in a browser to see the frontend application.
-
+3. In a different terminal navigate to the `frontend` folder (or however you called it) and run it as well (`npm run start`).
+4. Open `localhost:3000 in a browser to see the frontend application.
+5. Make sure all of them is up.
 
 
