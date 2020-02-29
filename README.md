@@ -12,6 +12,8 @@ structure look something like this:
 |- README.md
 ```
 
+Please be informed all table side used with `material-table` https://github.com/mbrn/material-table
+
 ### Run it
 
 To run the application locally, you have to start both server and frontend application:
